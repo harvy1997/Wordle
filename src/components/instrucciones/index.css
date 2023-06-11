@@ -1,0 +1,7 @@
+.instrucciones{
+    color: var(--secondary) !important;
+}
+.instrucciones .box{
+    color: var(--secondary) !important;
+    border: 1px solid var(--secondary) !important;
+}
